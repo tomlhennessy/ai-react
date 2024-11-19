@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
     const links = [
-        ['LinkedIn', 'www.linkedin.com/in/tomlhennessy96'],
+        ['LinkedIn', 'https://www.linkedin.com/in/tomlhennessy96'],
         ['GitHub', 'https://github.com/tomlhennessy']
     ]
 
