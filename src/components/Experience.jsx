@@ -3,17 +3,17 @@ import React from 'react'
 export default function Experience() {
   const experiences = [
     {
-      company: 'Company 1',
-      position: 'Manager',
-      description: 'List of things that I did at the job.'
+      company: 'Royal Mail',
+      position: 'Postman',
+      description: 'Organisation + efficiency'
     }, {
-      company: 'Company 2',
-      position: 'Manager',
-      description: 'List of things that I did at the job.'
+      company: '77WM',
+      position: 'Digital Marketing Assistant',
+      description: 'design + teamwork'
     }, {
-      company: 'Company 3',
-      position: 'Manager',
-      description: 'List of things that I did at the job.'
+      company: 'The Training Room',
+      position: 'Sales',
+      description: 'communication'
     }
   ]
   return (
