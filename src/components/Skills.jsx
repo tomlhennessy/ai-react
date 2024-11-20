@@ -8,7 +8,7 @@ export default function Skills() {
   }
 
   return (
-    <div className='shadow-xl p-4 bg-white rounded flex flex-col gap-4'>
+    <div className='shadow-xl p-4 bg-white rounded flex flex-col gap-4 md:gap-12'>
       <div className='flex flex-col gap-1'>
         <h1 className='text-3xl'>Info</h1>
 
@@ -29,7 +29,7 @@ export default function Skills() {
       </div>
 
       <div>
-        <h1 className='text-4xl'>Skills</h1>
+        <h1 className='text-3xl'>Skills</h1>
         <div className='flex flex-col gap-3'>
           {Object.keys(ski).map((keyName, index) => {
             return (
@@ -50,7 +50,7 @@ export default function Skills() {
         </div>
       </div>
       <div className='flex flex-col gap-1'>
-        <h1 className='text-4xl'>Just For Fun</h1>
+        <h1 className='text-3xl'>Just For Fun</h1>
         <div className='flex items-center flex-wrap text-lg p-4 gap-2'>
           <i className="fa-solid fa-rocket"></i>
           <i className="fa-solid fa-book"></i>
