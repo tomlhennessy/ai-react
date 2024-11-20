@@ -6,7 +6,7 @@ export default function Experience() {
       company: 'Royal Mail',
       position: 'Postman',
       description: [
-        'Delivered mail efficiently and accurately while managing multiple routes daily in a fast-paced environment.',
+        'Delivered mail efficiently while managing multiple routes in a fast-paced environment.',
         'Strengthened organizational and time-management skills by consistently meeting tight deadlines.',
         'Adapted to challenges quickly to ensure reliable and timely deliveries.'
       ]
