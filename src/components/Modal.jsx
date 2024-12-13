@@ -7,12 +7,12 @@ export default function Modal(props) {
     {
       name: 'Caffeind - Your Personal Caffeine Tracker',
       link: 'https://caffeind-track-your-coffee.netlify.app',
-      desc: 'Caffeind is a caffeine tracking app that allows users to log their daily coffee intake, monitor the associated costs, and gain insights into their consumption habits. Built with a focus on user experience and functionality, it demonstrates practical use of data storage, user interaction design, and cost-tracking logic.',
+      desc: 'Caffeind is a caffeine tracking app that allows users to log their daily coffee intake, monitor the associated costs, and gain insights into their consumption habits. A full-stack application built with React, Node.js, and Firebase, featuring secure user authentication and scalable backend functionality.',
       github: 'https://github.com/tomlhennessy/caffeind'
     }, {
       name: 'Pokedex - Explore the World of Pokémon',
       link: 'https://toms-pokedex.netlify.app',
-      desc: 'This interactive Pokedex showcases all 151 original Pokémon by fetching real-time data from the PokéAPI. The project highlights dynamic data handling, responsive design, and API integration, providing users with an engaging and informative experience.',
+      desc: 'This interactive Pokedex showcases all 151 original Pokémon by fetching real-time data from the PokéAPI. Built with React and Node.js, demonstrating optimised API performance and dynamic, real-time data handling.',
       github: 'https://github.com/tomlhennessy/pokedex'
     }, {
       name: 'To-Do List - Simple Task Management',

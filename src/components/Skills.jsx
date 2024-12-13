@@ -2,11 +2,12 @@ import React from 'react'
 
 export default function Skills() {
   const ski = {
-    JavaScript: ['React', 'Node.js', 'Express.js', 'Next.js'],
-    Python: ['Data Analysis'],
-    Web: ['TailwindCSS', 'Firebase', 'Netlify', 'GIT'],
+    Frontend: ['React', 'Next.js', 'TailwindCSS'],
+    Backend: ['Node.js', 'Express.js', 'Sequelize', 'RESTful APIs'],
+    Databases: ['SQL', 'MySQL', 'Firebase'],
     Testing: ['Jest', 'Postman'],
-    Management: ['Trello', 'Jira']
+    Tools: ['Git', 'GitHub', 'Trello', 'Jira'],
+    Languages: ['JavaScript', 'Python']
   }
 
   return (
