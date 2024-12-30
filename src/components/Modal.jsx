@@ -15,10 +15,10 @@ export default function Modal(props) {
       desc: 'This interactive Pokedex showcases all 151 original Pokémon by fetching real-time data from the PokéAPI. Built with React and Node.js, demonstrating optimised API performance and dynamic, real-time data handling.',
       github: 'https://github.com/tomlhennessy/pokedex'
     }, {
-      name: 'To-Do List - Simple Task Management',
-      link: 'https://toms-todo-list.netlify.app',
-      desc: 'A minimalist to-do list application designed for task tracking and productivity. Users can add, remove, and mark tasks as completed in a clean and intuitive interface. This project emphasizes CRUD functionality, state management, and responsive front-end development.',
-      github: 'https://github.com/tomlhennessy/todo-list'
+      name: 'Minimalist Modern E-Commerce App',
+      link: 'https://e-store-rj5usbl6u-toms-projects-6ad889a2.vercel.app/#',
+      desc: 'A fully responsive e-commerce web app where users can browse a dynamic product catalog, manage their cart, and securely checkout via Stripe. Built with Next.js and TailwindCSS, this project highlights dynamic state management, server-side rendering for performance, and seamless API integration.',
+      github: 'https://github.com/tomlhennessy/e-store'
     }
   ]
 
