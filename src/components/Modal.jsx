@@ -10,10 +10,10 @@ export default function Modal(props) {
       desc: 'Caffeind is a caffeine tracking app that allows users to log their daily coffee intake, monitor the associated costs, and gain insights into their consumption habits. A full-stack application built with React, Node.js, and Firebase, featuring secure user authentication and scalable backend functionality.',
       github: 'https://github.com/tomlhennessy/caffeind'
     }, {
-      name: 'Pokedex - Explore the World of Pokémon',
-      link: 'https://toms-pokedex.netlify.app',
-      desc: 'This interactive Pokedex showcases all 151 original Pokémon by fetching real-time data from the PokéAPI. Built with React and Node.js, demonstrating optimised API performance and dynamic, real-time data handling.',
-      github: 'https://github.com/tomlhennessy/pokedex'
+      name: 'Broodl - Your Daily Mood Tracker',
+      link: 'https://toms-https://broodl-mood-tracker.netlify.app/.netlify.app',
+      desc: 'Broodl is a mood-tracking application designed to help users build mindfulness and self-awareness by logging their daily moods, identifying trends, and viewing insightful statistics. The app features a dynamic calendar for tracking moods over time, a personalized dashboard showcasing mood streaks and averages, and secure user authentication powered by Firebase. Built with Next.js and TailwindCSS, Broodl delivers a seamless, responsive user experience across all devices.',
+      github: 'https://github.com/tomlhennessy/broodl'
     }, {
       name: 'Minimalist Modern E-Commerce App',
       link: 'https://e-store-rj5usbl6u-toms-projects-6ad889a2.vercel.app/#',
