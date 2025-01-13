@@ -11,7 +11,7 @@ export default function Modal(props) {
       github: 'https://github.com/tomlhennessy/caffeind'
     }, {
       name: 'Broodl - Your Daily Mood Tracker',
-      link: 'https://broodl-mood-tracker.netlify.app/.netlify.app',
+      link: 'https://broodl-mood-tracker.netlify.app/',
       desc: 'Broodl is a mood-tracking application designed to help users build mindfulness and self-awareness by logging their daily moods, identifying trends, and viewing insightful statistics. The app features a dynamic calendar for tracking moods over time, a personalized dashboard showcasing mood streaks and averages, and secure user authentication powered by Firebase. Built with Next.js and TailwindCSS, Broodl delivers a seamless, responsive user experience across all devices.',
       github: 'https://github.com/tomlhennessy/broodl'
     }, {
