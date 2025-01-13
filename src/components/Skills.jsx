@@ -4,7 +4,7 @@ export default function Skills() {
   const ski = {
     Frontend: ['React', 'Next.js', 'TailwindCSS'],
     Backend: ['Node.js', 'Express.js', 'Sequelize', 'RESTful APIs'],
-    Databases: ['SQL', 'MySQL', 'Firebase'],
+    Databases: ['SQLite', 'Firebase'],
     Testing: ['Jest', 'Postman'],
     Tools: ['Git', 'GitHub', 'Trello', 'Jira'],
     Languages: ['JavaScript', 'Python']
