@@ -7,12 +7,12 @@ export default function Modal(props) {
     {
       name: 'Caffeind - Your Personal Caffeine Tracker',
       link: 'https://caffeind-track-your-coffee.netlify.app',
-      desc: 'Developed a full-stack caffeine tracker enabling users to log daily consumption and associated costs. Integrated Firebase for real-time data storage and secure user authentication. Built with React and Node.js to provide personalized insights and promote healthier habits.',
+      desc: 'Developed a full-stack caffeine tracker enabling users to log daily consumption and associated costs. Integrated Firebase for real-time data storage and secure user authentication. Built with React and Node.js to provide personalised insights and promote healthier habits.',
       github: 'https://github.com/tomlhennessy/caffeind'
     }, {
       name: 'Broodl - Your Daily Mood Tracker',
       link: 'https://broodl-mood-tracker.netlify.app/',
-      desc: 'Designed a responsive mood-tracking app to help users monitor emotional trends and build mindfulness. Features include a dynamic calendar, personalized dashboards, and visualized mood streaks. Built with Next.js for performance and Firebase for secure data storage.',
+      desc: 'Designed a responsive mood-tracking app to help users monitor emotional trends and build mindfulness. Features include a dynamic calendar, personalised dashboards, and visualised mood streaks. Built with Next.js for performance and Firebase for secure data storage.',
       github: 'https://github.com/tomlhennessy/broodl'
     }, {
       name: 'Minimalist Modern E-Commerce App',
