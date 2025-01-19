@@ -6,26 +6,22 @@ export default function Experience() {
       company: 'Royal Mail',
       position: 'Postman',
       description: [
-        'Delivered mail efficiently while managing multiple routes in a fast-paced environment.',
-        'Strengthened organizational and time-management skills by consistently meeting tight deadlines.',
-        'Adapted to challenges quickly to ensure reliable and timely deliveries.'
+        'Applied organisational and time-management skills to consistently meet tight deadlines in a high-pressure environment.'
       ]
     }, {
       company: '77WM',
       position: 'Digital Marketing Assistant',
       description: [
-        'Enhanced the company website alongside the software developer, improving SEO rankings and driving measurable web traffic growth.',
-        'Designed and executed engaging social media campaigns across LinkedIn, Instagram, YouTube, and Facebook.',
-        'Created professional invitations and marketing materials aligned with company branding.',
+        'Collaborated with a software developer to enhance website performance, improving SEO rankings and increasing web traffic',
+        'Designed and implemented engaging digital campaigns using data-driven insights, aligning with company objectives.',
         'Worked with senior leaders to translate ideas into actionable, high-quality marketing strategies.'
       ]
     }, {
       company: 'The Training Room',
       position: 'Sales',
       description: [
-        'Built strong client relationships by understanding individual needs and tailoring solutions.',
-        'Exceeded sales targets through effective communication and problem-solving.',
-        'Thrived in a high-pressure, goal-driven environment, consistently delivering results.'
+        'Built client relationships by analysing individual needs and tailoring solutions',
+        'Thrived in a goal-driven environment, applying time management and prioritisation skills to consistently deliver results.'
       ]
     }
   ]

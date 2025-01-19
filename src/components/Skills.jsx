@@ -3,10 +3,9 @@ import React from 'react'
 export default function Skills() {
   const ski = {
     Frontend: ['React', 'Next.js', 'TailwindCSS'],
-    Backend: ['Node.js', 'Express.js', 'Sequelize', 'RESTful APIs'],
-    Databases: ['SQLite', 'Firebase'],
-    Testing: ['Jest', 'Postman'],
-    Tools: ['Git', 'GitHub', 'Trello', 'Jira'],
+    Backend: ['Node.js', 'Express.js', 'RESTful APIs'],
+    Databases: ['SQLite', 'Firebase', 'PostgreSQL'],
+    Tools: ['AWS', 'Docker', 'CI/CD Pipelines'],
     Languages: ['JavaScript', 'Python']
   }
 
