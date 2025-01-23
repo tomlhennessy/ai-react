@@ -5,7 +5,7 @@ export default function Modal(props) {
   const projects = [
     {
       name: 'To-do List App',
-      link: 'https://caffeind-trackhttps://todo-app-kded.onrender.com-your-coffee.netlify.app',
+      link: 'https://todo-app-kded.onrender.com-your-coffee.netlify.app',
       desc: 'A full-stack to-do list application built with Node.js, Express, and PostgreSQL, containerised using Docker. Demonstrates efficient backend architecture with Prisma ORM, user authentication with JWT, and a responsive front-end for task management.',
       github: 'https://github.com/tomlhennessy/todoApp'
     }, {
