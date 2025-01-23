@@ -1,23 +1,22 @@
-import React from 'react'
 import ReactDOM from 'react-dom'
 
 export default function Modal(props) {
   const { handleCloseModal } = props
   const projects = [
     {
-      name: 'Caffeind - Your Personal Caffeine Tracker',
-      link: 'https://caffeind-track-your-coffee.netlify.app',
-      desc: 'Developed a full-stack caffeine tracker enabling users to log daily consumption and associated costs. Integrated Firebase for real-time data storage and secure user authentication. Built with React and Node.js to provide personalised insights and promote healthier habits.',
-      github: 'https://github.com/tomlhennessy/caffeind'
+      name: 'To-do List App',
+      link: 'https://caffeind-trackhttps://todo-app-kded.onrender.com-your-coffee.netlify.app',
+      desc: 'A full-stack to-do list application built with Node.js, Express, and PostgreSQL, containerised using Docker. Demonstrates efficient backend architecture with Prisma ORM, user authentication with JWT, and a responsive front-end for task management.',
+      github: 'https://github.com/tomlhennessy/todoApp'
     }, {
       name: 'Broodl - Your Daily Mood Tracker',
       link: 'https://broodl-mood-tracker.netlify.app/',
-      desc: 'Designed a responsive mood-tracking app to help users monitor emotional trends and build mindfulness. Features include a dynamic calendar, personalised dashboards, and visualised mood streaks. Built with Next.js for performance and Firebase for secure data storage.',
+      desc: 'A mood-tracking web app built with Next.js and Firebase, featuring interactive dashboards that provide insights into emotional patterns. Designed with a responsive UI and real-time database synchronisation to ensure a seamless user experience.',
       github: 'https://github.com/tomlhennessy/broodl'
     }, {
       name: 'Minimalist Modern E-Commerce App',
       link: 'https://e-store-rj5usbl6u-toms-projects-6ad889a2.vercel.app/#',
-      desc: 'Created a modern e-commerce platform featuring product browsing, cart management, and secure payments with Stripe. Leveraged Next.js for server-side rendering and TailwindCSS for responsive, mobile-friendly design.',
+      desc: 'An e-commerce platform developed with Next.js and TailwindCSS, integrated with Stripe for secure payment processing. The project showcases dynamic product pages, a streamlined checkout flow, and responsive design.',
       github: 'https://github.com/tomlhennessy/e-store'
     }
   ]

@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 export default function Experience() {
   const experiences = [
@@ -21,7 +21,7 @@ export default function Experience() {
       position: 'Sales',
       description: [
         'Built client relationships by analysing individual needs and tailoring solutions',
-        'Thrived in a goal-driven environment, applying time management and prioritisation skills to consistently deliver results.'
+        'Excelled in a goal-driven environment, applying time management and prioritisation skills to consistently deliver results.'
       ]
     }
   ]
