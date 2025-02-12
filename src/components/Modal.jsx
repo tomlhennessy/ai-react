@@ -15,9 +15,9 @@ export default function Modal(props) {
       github: 'https://github.com/tomlhennessy/broodl'
     }, {
       name: 'Minimalist Modern E-Commerce App',
-      link: 'https://e-store-rj5usbl6u-toms-projects-6ad889a2.vercel.app/#',
+      link: 'https://caffeind-track-your-coffee.netlify.app/',
       desc: 'An e-commerce platform developed with Next.js and TailwindCSS, integrated with Stripe for secure payment processing. The project showcases dynamic product pages, a streamlined checkout flow, and responsive design.',
-      github: 'https://github.com/tomlhennessy/e-store'
+      github: 'https://github.com/tomlhennessy/caffeind'
     }
   ]
 

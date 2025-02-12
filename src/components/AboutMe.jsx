@@ -11,7 +11,7 @@ export default function AboutMe(props) {
             <img className='mx-auto md:hidden h-[200px] aspect-square rounded-full shadow-lg' src='https://media.licdn.com/dms/image/v2/D4E03AQFXNylXUxQfGA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731983470996?e=1737590400&v=beta&t=hHafkOWBsy3b1jWesWkgNidVQ39siEyQL6o9m6qXq04' alt='me' />
         </div>
         <h2 className='font-medium text-lg text-slate-800 sm:text-2xl'>Software Developer</h2>
-        <p className='text-slate-500'>I&apos;m a software developer passionate about building user-friendly, scalable web applications. Skilled in React, Node.js, and Python, I enjoy solving complex problems and writing clean, efficient code.</p>
+        <p className='text-slate-500'>IT professional with experience in software development, technical troubleshooting, and application support. Passionate about building user-friendly, scalable applications while ensuring system reliability and performance optimisation. Skilled in React, Node.js, Python, and SQL, I enjoy debugging, optimising workflows, and integrating systems to improve efficiency.</p>
 
         <div className='my-10 flex items-center gap-4 text-sm sm:text-base'>
           <button onClick={handleOpenModal} className='rounded-full bg-gradient-to-r from-blue-700 to-violet-700 text-white hover:opacity-70 px-4 py-2'>projects</button>
