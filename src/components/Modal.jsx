@@ -6,17 +6,17 @@ export default function Modal(props) {
     {
       name: 'To-do List App',
       link: 'https://todo-app-kded.onrender.com',
-      desc: 'A full-stack to-do list application built with Node.js, Express, and PostgreSQL, containerised using Docker. Demonstrates efficient backend architecture with Prisma ORM, user authentication with JWT, and a responsive front-end for task management.',
+      desc: 'A full-stack task management application built with Node.js, Express, and PostgreSQL, containerised using Docker. Implements secure authentication (JWT), API integrations, and database optimisation. Designed to handle structured data efficiently, improving scalability and performance monitoring through CI/CD pipelines.',
       github: 'https://github.com/tomlhennessy/todoApp'
     }, {
       name: 'Broodl - Your Daily Mood Tracker',
       link: 'https://broodl-mood-tracker.netlify.app/',
-      desc: 'A mood-tracking web app built with Next.js and Firebase, featuring interactive dashboards that provide insights into emotional patterns. Designed with a responsive UI and real-time database synchronisation to ensure a seamless user experience.',
+      desc: 'A data-driven mood tracking app built with Next.js and Firebase, featuring interactive dashboards that provide insights into emotional patterns. Uses real-time database synchronisation and Firebase Authentication to ensure secure, personalised user experiences. Designed with a scalable, responsive UI for seamless cross-device accessibility.',
       github: 'https://github.com/tomlhennessy/broodl'
     }, {
-      name: 'Minimalist Modern E-Commerce App',
+      name: 'Caffeind - Caffeine Tracking App ',
       link: 'https://caffeind-track-your-coffee.netlify.app/',
-      desc: 'An e-commerce platform developed with Next.js and TailwindCSS, integrated with Stripe for secure payment processing. The project showcases dynamic product pages, a streamlined checkout flow, and responsive design.',
+      desc: 'A full-stack caffeine tracking app designed to help users log and analyze their caffeine consumption over time. Built with React, Firebase, and SQL, it features secure authentication, structured data management, and real-time tracking of trends and spending habits. Optimized database queries ensure fast retrieval of user insights, improving scalability and system performance.',
       github: 'https://github.com/tomlhennessy/caffeind'
     }
   ]
