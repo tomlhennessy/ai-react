@@ -1,12 +1,14 @@
-import React from 'react'
+
 
 export default function Skills() {
   const ski = {
-    Frontend: ['React', 'Next.js', 'TailwindCSS'],
-    Backend: ['Node.js', 'Express.js', 'RESTful APIs'],
-    Databases: ['SQLite', 'Firebase', 'PostgreSQL'],
-    Tools: ['AWS', 'Docker', 'CI/CD Pipelines'],
-    Languages: ['JavaScript', 'Python']
+    'Frontend' : ['React', 'Next.js', 'TailwindCSS'],
+    'Backend & APIs' : ['Node.js', 'Express.js', 'RESTful APIs', 'Authentication'],
+    'Databases & Data Management' : ['Postgresql', 'Firebase', 'SQLite', 'Query Optimisation'],
+    'Cloud & DevOps' : ['AWS', 'Docker', 'CI/CD Pipelines'],
+    'System Integrations & Automation' : ['API Development', 'SaaS Integrations', 'Power Automate'],
+    'Technical Support & Troubleshooting' : ['Debugging', 'Performance Optimisation'],
+    'Languages' : ['JavaScript', 'Python']
   }
 
   return (
