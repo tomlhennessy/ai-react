@@ -3,25 +3,28 @@
 export default function Experience() {
   const experiences = [
     {
-      company: 'Royal Mail',
-      position: 'Postman',
+      company: 'Project Building (Self-Initiated)',
+      position: 'Full Stack Developer',
       description: [
-        'Applied organisational and time-management skills to consistently meet tight deadlines in a high-pressure environment.'
+        'Troubleshot and optimised web applications, enhancing performance and user experience.',
+        'Developed and maintained API integrations to connect applications, improving efficiency and data flow.',
+        'Optimised SQL queries for faster data retrieval and reporting.',
+        'Built and maintained SaaS applications, implementing performance monitoring best practices.'
       ]
     }, {
-      company: '77WM',
+      company: 'SeventySeven Wealth Management',
       position: 'Digital Marketing Assistant',
       description: [
-        'Collaborated with a software developer to enhance website performance, improving SEO rankings and increasing web traffic',
-        'Designed and implemented engaging digital campaigns using data-driven insights, aligning with company objectives.',
-        'Worked with senior leaders to translate ideas into actionable, high-quality marketing strategies.'
+        'Collaborated with developers to enhance website functionality, leading to improved SEO rankings and user engagement.',
+        'Designed and implemented data-driven digital campaigns, aligning with business goals.',
+        'Worked with leadership to translate ideas into actionable marketing strategies.'
       ]
     }, {
       company: 'The Training Room',
-      position: 'Sales',
+      position: 'Sales & Client Support',
       description: [
-        'Built client relationships by analysing individual needs and tailoring solutions',
-        'Excelled in a goal-driven environment, applying time management and prioritisation skills to consistently deliver results.'
+        'Established client relationships through needs analysis, delivering tailored solutions.',
+        'Achieved results in a goal-driven environment, utilising time management and prioritisation skills.'
       ]
     }
   ]
