@@ -8,7 +8,7 @@ export default function AboutMe({ handleOpenModal }) {
         <h2 className="font-medium text-lg text-slate-800 sm:text-2xl">Software Developer</h2>
 
         <p className="text-slate-500">
-          IT professional with experience in software development, technical troubleshooting, and application support. Passionate about building user-friendly, scalable applications while ensuring system reliability and performance optimisation. Skilled in React, Node.js, Python, and SQL, I enjoy debugging, optimising workflows, and integrating systems to improve efficiency.
+          IT professional with experience in software development, technical troubleshooting, and customer support. Passionate about building user-friendly, scalable applications while ensuring system reliability and performance optimisation. Skilled in React, Node.js, Python, and SQL, I enjoy debugging, optimising workflows, and integrating systems to improve efficiency.
         </p>
 
         <div className="my-10 flex items-center justify-center md:justify-start gap-4 text-sm sm:text-base">

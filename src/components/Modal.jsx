@@ -16,7 +16,7 @@ export default function Modal(props) {
     }, {
       name: 'Caffeind - Caffeine Tracking App ',
       link: 'https://caffeind-track-your-coffee.netlify.app/',
-      desc: 'A full-stack caffeine tracking app designed to help users log and analyze their caffeine consumption over time. Built with React, Firebase, and SQL, it features secure authentication, structured data management, and real-time tracking of trends and spending habits. Optimized database queries ensure fast retrieval of user insights, improving scalability and system performance.',
+      desc: 'A full-stack caffeine tracking app designed to help users log and analyse their caffeine consumption over time. Built with React, Firebase, and SQL, it features secure authentication, structured data management, and real-time tracking of trends and spending habits. Optimised database queries ensure fast retrieval of user insights, improving scalability and system performance.',
       github: 'https://github.com/tomlhennessy/caffeind'
     }
   ]
